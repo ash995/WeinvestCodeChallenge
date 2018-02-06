@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weinvest.iml" filepath="$PROJECT_DIR$/.idea/modules/weinvest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weinvest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/weinvest_main.iml" group="weinvest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weinvest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/weinvest_test.iml" group="weinvest" />
+    </modules>
+  </component>
+</project>
